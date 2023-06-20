@@ -1,1 +1,1 @@
-##Trending   https://github.com/trending
+Trending   https://github.com/trending
